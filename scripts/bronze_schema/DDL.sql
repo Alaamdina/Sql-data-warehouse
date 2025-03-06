@@ -1,3 +1,7 @@
+/*
+Here we will define tables for bronze schema 
+table name (scehmaName.source_tableName)
+*/
 use AlaaDatawarehouse
 GO
 
